@@ -108,7 +108,7 @@ print_r($returningele['avtr1']);
 
 <!--end input type='submit' name=''-->
   			</div>
-        <p> Created by Nakul Das for Software Engineer technichal test </p>
+        <p> Created by Nakul Das for Software Engineer technical test </p>
       </div>
 
   			
